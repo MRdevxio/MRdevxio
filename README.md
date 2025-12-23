@@ -24,6 +24,19 @@ Junior full-stack developer experienced in building academic web projects using 
     <img src="https://skillicons.dev/icons?i=vscode,git,postman,figma,windows" />
 </p>
 
+###
+
+<h2>Contact Me ✉️</h2>
+<a href="mailto:mrmohamadidev@gmail.com" rel="nofollow">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg"/>
+</a>
+&nbsp
+<a href="http://t.me/XimMahdiX">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg"/>
+</a>
+<a href="">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg"/>
+</a>
 
 
 
