@@ -28,14 +28,15 @@ Junior full-stack developer experienced in building academic web projects using 
 
 <h2>Contact Me ✉️</h2>
 <a href="mailto:mrmohamadidev@gmail.com" rel="nofollow">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg"/>
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg" alt="gmail"/>
 </a>
-&nbsp
-<a href="http://t.me/XimMahdiX">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg"/>
+
+<a href="http://t.me/XimMahdiX" rel="nofollow">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg" alt="telegram"/>
 </a>
-<a href="">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg"/>
+
+<a href="" rel="nofollow">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin"/>
 </a>
 
 
